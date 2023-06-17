@@ -1,0 +1,14 @@
+h1{
+    font-style:initial;
+    color: brown;
+
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    border-style: calc();
+    
+}
+body{
+    background-color: antiquewhite;
+}
